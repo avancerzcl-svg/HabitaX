@@ -1,4 +1,4 @@
-<h1 align="center"><b>Project Description – Avancerz: Space Habitat Builder (HabitaX)
+<h1 align="center"><b>Project Description – Avancerz: HabitaX
  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <img align="right" width=500px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhkbGU0YnIyeDIybGhmeGplNXVkcmRhOW0wdjg4Nnpxd2RhMWk5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VOgpnDOAddaN0zr9UE/giphy.gif" /> 
