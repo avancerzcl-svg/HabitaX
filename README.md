@@ -6,7 +6,7 @@
 
 &nbsp;***About me***
 
-Avancerz presents Space Habitat Builder – HabitaX, an interactive 3D simulator developed in Unity that allows users to design, expand, and analyze modular habitats for the Moon and Mars. 
+Avancerz presents HabitaX, an interactive 3D simulator developed in Unity that allows users to design, expand, and analyze modular habitats for the Moon and Mars. 
 The project is based on real NASA data concerning oxygen, water, and energy requirements, complemented by synthetic food variables to simulate complete life-support scenarios. 
 Each habitat module—modeled using Autodesk Inventor—was designed following NASA’s volume specifications, ensuring efficient use of space, protection, and structural adaptability.
 The simulator calculates efficiency and sustainability levels, helping users visualize how design decisions impact long-term resource consumption. Beyond simulation, HabitaX seeks 
